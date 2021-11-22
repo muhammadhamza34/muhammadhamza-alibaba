@@ -1,0 +1,280 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+body
+{
+    background-color: #f2f3f7;
+}
+.background-onee
+{
+    background-color: #ffffff;
+
+}
+.background-twoo
+{
+    background-color: #ffffff;
+
+}
+.background-twoo ul li  a:hover
+{
+    color: orangered;
+}
+
+.background-3
+{
+    background-color: #e6f2fe;
+
+}
+
+.search-custo
+{
+    border: 3px solid orangered;
+    border-radius: 10px;
+    
+}
+.search-one
+{
+    width: 500px;
+    border: none;
+    outline: none;  
+}
+.product
+{
+    border-right: 1px solid black;
+    text-align: center;
+}
+.icon-1
+{
+    background-color: orangered;
+    
+    
+}
+.border-two
+{
+    border-right: 1px solid black;
+}
+/* .border-2
+{
+    border-right: 1px solid black;
+} */
+
+.list ul li  {
+    text-decoration: none;
+    list-style: none;
+    font-size: 14px;
+    
+}
+.list ul li img  
+{
+    width: 15%;
+}
+.list ul li:hover  
+{
+    color: orangered;
+    cursor: pointer;
+}
+.target-image h4 img
+{
+width: 17%;
+}
+.trending-now
+{
+    font-size: 0.9em;
+}
+.new-arriv
+{
+    width: 5%;
+}
+
+
+.pic-back
+{
+    background-color: #e6f2fe;
+    width: 80%;
+}
+.premium
+{
+    background-color: #f7f7f7;
+}
+
+.image-5
+{
+background-color: #f7f7f7;
+}
+
+
+.image-5 img
+{
+    width: 32%;
+}
+.label
+{
+    
+    border: 3px solid #dcdee3;
+    border-radius: 3px;
+    
+    
+}
+.setting-5 h2
+{
+    font-size: 24px;
+    font-weight: 700;
+    color: #333;
+    text-transform: uppercase;
+}
+
+.border-10
+{
+   border: 1px solid  #dcdee3;
+}
+
+
+
+.border-10 .image-11 img
+{
+    width: 26%;
+}
+
+.weekly-1
+{
+    font-weight: 700;
+}
+.small
+{
+    font-size: 1.3rem;
+    font-weight: 700;
+}
+
+
+.custom-button
+{
+    background-color: #ff7519;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.what
+{
+    width: 63%;
+    font-family: Arial, Helvetica, sans-serif;
+    outline: blue;
+    
+}
+.border-11
+{
+    border: 6px solid  #dcdee3;
+}
+.pera-1
+{
+    font-size: 9px;
+    font-weight: 700;
+}
+
+
+.pera-2
+{
+    font-size: 13px;
+}
+.pera-3
+{
+    font-size: 10px;
+}
+
+
+.setting-6 h5:hover
+{
+    color: orangered;
+}
+
+.image-region
+{
+    cursor: pointer;
+}
+
+
+
+.image-region p 
+{
+    font-size: 13px;
+}
+
+
+
+
+
+
+
+
+.image-region p img
+{
+    width: 29%;
+}
+.image-region p:hover
+{
+    color: orangered;
+}
+.setting-more
+{
+    color: blue;
+}
+.background-change
+{
+    background-color: #445268;
+}
+
+.email-custo
+{
+    border: 1px solid white;
+    width: 20%;
+    outline: white;
+
+}
+
+.customer
+{
+    color: white;
+    font-weight: 800;
+}
+.setting-fot ul li a 
+{
+    color: white;
+    list-style: none;
+    
+}
+.setting-fot ul li 
+{
+    
+    list-style: none;
+    
+
+}
+
+.col-md-5 .setting-fot ul li a
+{
+    text-decoration: none;
+}
+.col-md-5 .setting-fot ul li a:hover 
+{
+    text-decoration: underline;
+}
+
+.setting-foot ul li 
+{
+    color: white;
+    list-style: none;
+}
+ .setting-foot ul li a
+{
+    text-decoration: none;
+    color: white;
+} 
+
+.setting-foot ul li a:hover 
+{
+    text-decoration: underline;
+}
+
+
